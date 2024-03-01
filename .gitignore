@@ -1,6 +1,9 @@
 # những folder k muốn đẩy lên
 
 /node_modules
+# Ignore package.json
+!package.json
+
 /.pnp
 .pnp.js
 
