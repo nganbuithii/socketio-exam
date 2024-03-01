@@ -1,0 +1,26 @@
+{
+  "name": "socketio-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nganbuithii/socketio-exam.git"
+  },
+  "author": "NganBT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nganbuithii/socketio-exam/issues"
+  },
+  "homepage": "https://github.com/nganbuithii/socketio-exam#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "socket.io": "^4.7.4"
+  }
+}
